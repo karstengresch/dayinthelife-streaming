@@ -254,7 +254,7 @@ curl -s -X POST \
 554071289,"flavor":"Mango","inventoryId":"939699"}
 ----
 
-. Be sure to terminate the running Quarkus development via kbd:[CTRL+C] (or kbd:[Command+C] on Mac OS).
+. Be sure to terminate the running Quarkus development via kbd:[CTRL+C].
 
 === Deploy to OpenShift
 
